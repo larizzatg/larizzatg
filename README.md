@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+I'm a person 😁
+That works as web developer 💻
+I develop webs 🌱, watch them grow, tug them a little, water them a lot 🌳. 
+
+I kill personal projects ♻️, sometimes I create them before I kill them 🚀.
+
+I enjoy programming and I love the posibilities it gives you to solve problems. 
+I'm interested in Social Entrepreneurship. 
+
+What's next? 🚋
+
+[] A nice B2 beside my converstional level in English.
+[] Learn javascript testing.
+[] Vue3
 -->
