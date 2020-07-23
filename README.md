@@ -4,7 +4,7 @@
 **larizzatg/larizzatg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 
 I'm a person 😁
 That works as web developer 💻
@@ -20,4 +20,3 @@ What's next? 🚋
 [] A nice B2 beside my converstional level in English.
 [] Learn javascript testing.
 [] Vue3
--->
