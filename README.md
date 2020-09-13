@@ -19,4 +19,7 @@ What's next? 🚋
 
 - [ ] A nice B2 beside my converstional level in English.
 - [ ] Learn javascript testing.
-- [ ] Vue3
+- [ ] Vue3.
+- [ ] Enter to ReactLand.
+- [ ] Typescript.
+- [ ] Blog.
