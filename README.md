@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 #### What about me?
 
-I'm another one of you, a person. I collect kawaii objects, eat sour candies, encourage curiosity, and search meta topics. I believe we can make a better world with software and thrive to have a social impact with the products I make or help making.
+I'm another one of you, a person, (if you are an alien let's chat). I collect kawaii objects, eat sour candies, encourage curiosity, and search meta topics. I believe we can make a better world with software and thrive to have a social impact with the products I make or help making.
 
 #### What about now?
 - I work as a web developer, at the front end of the island, with Vue and SCSS.
