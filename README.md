@@ -27,10 +27,10 @@ ___
 
 :books: **Reading**:  [The Coding Career Handbook](https://www.learninpublic.org/).
 
-:video_game: **Playing**: [Spellbreak](https://www.epicgames.com/store/en-US/product/spellbreak/home?sessionInvalidated=true), I'm terrible at it, but I love it.
+:video_game: **Playing**: [Genshin Impact](https://genshin.mihoyo.com/), Chongyun main all the way
 
-:tv: **Watching**: [Re:ZERO -Starting Life in Another World](https://www.youtube.com/watch?v=Slz_rahWp6Y) and [The Boys](https://www.youtube.com/watch?v=06rueu_fh30).
+:tv: **Watching**: [Haikyuu 4th Season](https://www.youtube.com/watch?v=JOGp2c7-cKc) and [His Darks Materials 2nd Season](https://www.youtube.com/watch?v=APduGe1eLVI).
 
-:iphone: **Using**: [Routinery](https://routinery.alt-ernative.com/) to keep track of my routines and [MMP](https://managemypainapp.com/) to keep track of my health.
+:iphone: **Using**: [Notion](https://www.notion.so) to keep track my live.
 
-:notebook:**Researching**: [Design systems](https://www.designbetter.co/design-systems-handbook), rapid programming and how to create an agnostic implementation.
+:notebook:**Researching**: [Design systems](https://www.designbetter.co/design-systems-handbook) and [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/).
