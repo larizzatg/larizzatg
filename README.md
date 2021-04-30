@@ -12,14 +12,11 @@ I'm another one of you, a person, (if you are an alien let's chat). I collect ka
 
 #### What about now?
 - I work as a web developer, at the front end of the island, with Vue and SCSS.
-- Studying react and typescript, tag me on [twitter](https://twitter.com/larizza_tg) with your breakthrough tutorials. 
-- I'm committed to practicing English every day. Let's cheer each other on [Duolingo](https://www.duolingo.com/profile/larizza_tg).
 
 
 #### What's next?
-- Do something with [Vue3](https://v3.vuejs.org/). 
 - Create a [digital garden](https://maggieappleton.com/garden) and [learn in public](https://www.swyx.io/writing/learn-in-public/).
-- Learn how to test with JS and explore the TDD mindset.
+
 
 ___
 
@@ -29,8 +26,8 @@ ___
 
 :video_game: **Playing**: [Genshin Impact](https://genshin.mihoyo.com/), Chongyun main all the way
 
-:tv: **Watching**: [Haikyuu 4th Season](https://www.youtube.com/watch?v=JOGp2c7-cKc) and [His Darks Materials 2nd Season](https://www.youtube.com/watch?v=APduGe1eLVI).
+:tv: **Watching**: ?
 
-:iphone: **Using**: [Notion](https://www.notion.so) to keep track my live.
+:iphone: **Using**: ?
 
-:notebook:**Researching**: [Design systems](https://www.designbetter.co/design-systems-handbook) and [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/).
+:notebook:**Researching**: ?
