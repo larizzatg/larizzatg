@@ -1,4 +1,4 @@
-### 27 years ago, my mother named me Larizza and I've grown to like it 👋
+### 28 years ago, my mother named me Larizza and I've grown to like it 👋
 
 <!--
 **larizzatg/larizzatg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,11 +20,11 @@ I'm another one of you, a person, (if you are an alien let's chat). I collect ka
 
 ___
 
-:brain: **Thinking**: How to build a [second brain](https://maggieappleton.com/basb).
+:brain: **Thinking**:
 
-:books: **Reading**:  [The Coding Career Handbook](https://www.learninpublic.org/).
+:books: **Reading**:  
 
-:video_game: **Playing**: [Genshin Impact](https://genshin.mihoyo.com/), Chongyun main all the way
+:video_game: **Playing**:
 
 :tv: **Watching**: ?
 
